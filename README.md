@@ -2,7 +2,7 @@
 This repo contains an adaptation of the notes on Time Series Analysis from Penn State, located at https://onlinecourses.science.psu.edu/stat510/.
 The original course is given in R, but these notes use Python, Pandas, and Statsmodels in Jupyter Notebooks. Hopefully these notes are useful and educational.
 
-Following the outline on the site above, the course covers the following topics:
+## Course Topics
 * Understanding the characteristics of time series data
 * Understanding moving average models and partial autocorrelation as foundations for analysis of time series data
 * Exploratory Data Analysis - Trends in time series data
@@ -14,3 +14,6 @@ Following the outline on the site above, the course covers the following topics:
 * Using ARCH and AR models in multivariate time series contexts
 * Using spectral density estimation and spectral analysis
 * Using fractional differencing and threshold models with time series data
+
+## Textbook
+"Time Series Analysis and Its Applications With R Examples", 3rd edition by Robert H. Shumway & David S. Stoffer
