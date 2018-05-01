@@ -6,7 +6,7 @@
 
 ## Overview:
 This first lesson will introduce you to time series data and important characteristics of time series data.
-We will also begin some basic modelling.
+We will also begin some basic modeling.
 Topics covered include first-order autoregressive models and the autocorrelation function.
 
 ## Learning Objectives:
